@@ -1,0 +1,13 @@
+Name of project is skart-rewardpoint
+
+This application is service to calculate reward points based upon amount spent by user. 
+Response is user wise,month based with total points also
+
+skart-rewardpoint-0.0.1-SNAPSHOT.jar will be generated once you run the build
+
+
+Customized exception handler is impleted.
+Created custom exception DateParseErrorException
+
+Wrote 8 unit test cases which covers basic validation for calculating reward points
+
